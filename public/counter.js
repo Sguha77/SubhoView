@@ -1,7 +1,7 @@
 
 (() => {
   const API =
-    "https://YOUR-SUBHOVIEW.netlify.app/.netlify/functions/views";
+    "https://viewcounter.netlify.app/.netlify/functions/views";
 
   const elements = document.querySelectorAll("[data-subhoview]");
 
